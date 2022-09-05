@@ -69,5 +69,48 @@
   lpq -P printer_name
 - lprm -remove from print queue
   lprm -P printer_name job_number
-  
 
+
+
+
+
+cat	concatenate (combine) two or more files
+cd	change to another directory
+chmod	change mode (security permissions) of file or directory
+ugo+-rwx	user (owner), group, other (world), add, remove, read, write, execute
+cp	copy file
+-r	copy directory tree
+df	show disk free information
+find	find files in a directory tree
+finger	display user information
+grep	list text lines containing particular characters
+groups	show your security group memberships
+kill	kill process
+-9	kill process immediately
+lpr	send to printer
+-P	send to another printer
+lpq	show status of print queue
+-P	show print jobs in a different print queue
+lprm	remove print job from printer
+-P	remove from a different print queue
+ls	list contents of current directory
+-l	long (detailed) listing
+man	display portion of online Unix manual
+-k	display command descriptions relating to subject keyword
+mkdir	make new directory
+more	display contents of file
+mv	move or rename file or directory
+ps aux	list status of all processes (running programs)
+pwd	print working (current) directory
+rm	remove file
+-r	remove directory tree
+rmdir	remove an empty directory
+..	parent directory
+.	current directory
+*	wildcard representing any combination of characters
+?	wildcard representing exactly one character
+~	your home directory
+~userid	userid's home directory
+> 	send output to file
+>> 	append (add) output to file
+|	pipe output from one command as input to another
