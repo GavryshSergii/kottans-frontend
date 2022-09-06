@@ -5,6 +5,7 @@ kottans-frontend
 
 
 ## Git Basics
+I've passed two weeks of coursera Introduction to Git and GitHub. Everything is new for me in Git, it was very informative to watch these videos.
 
 ## Linux CLI, and HTTP
 linux quiz 1:
