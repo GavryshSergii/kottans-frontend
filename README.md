@@ -4,6 +4,8 @@ kottans-frontend
 Маю надію на ефективне навчання!
 
 
+## Git Basics
+
 ## Linux CLI, and HTTP
 linux quiz 1:
 ![alt text](https://github.com/GavryshSergii/kottans-frontend/blob/main/task_linux_cli/quiz_1.png "linux quiz 1")
