@@ -7,18 +7,30 @@ kottans-frontend
 ## Git Basics
 I've passed two weeks of coursera Introduction to Git and GitHub. Everything is new for me in Git, it was very informative to watch these videos.
 
+I passed [learngitbranching.js.org](learngitbranching.js.org) and finished all nesessary tasks for this level.
+
+
 ## Linux CLI, and HTTP
-linux quiz 1:
-![alt text](https://github.com/GavryshSergii/kottans-frontend/blob/main/task_linux_cli/quiz_1.png "linux quiz 1")
+<details>
+   <summary>quiz 1</summary>
 
-linux quiz 2:
-![alt text](https://github.com/GavryshSergii/kottans-frontend/blob/main/task_linux_cli/quiz_2.png "linux quiz 2")
+   ![alt text](https://github.com/GavryshSergii/kottans-frontend/blob/main/task_linux_cli/quiz_1.png "linux quiz 1")
+</details>
+<details>
+   <summary>quiz 2</summary>
 
-linux quiz 3:
-![alt text](https://github.com/GavryshSergii/kottans-frontend/blob/main/task_linux_cli/quiz_3.png "linux quiz 3")
+   ![alt text](https://github.com/GavryshSergii/kottans-frontend/blob/main/task_linux_cli/quiz_2.png "linux quiz 2")
+</details>
+<details>
+   <summary>quiz 3</summary>
 
-linux quiz 4:
-![alt text](https://github.com/GavryshSergii/kottans-frontend/blob/main/task_linux_cli/quiz_4.png "linux quiz 4")
+   ![alt text](https://github.com/GavryshSergii/kottans-frontend/blob/main/task_linux_cli/quiz_3.png "linux quiz 3")
+</details>
+<details>
+   <summary>quiz 4</summary>
+
+   ![alt text](https://github.com/GavryshSergii/kottans-frontend/blob/main/task_linux_cli/quiz_4.png "linux quiz 4")
+</details>
 
 ## Git Collaboration
 
