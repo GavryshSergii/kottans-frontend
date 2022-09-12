@@ -70,3 +70,24 @@ I passed [learngitbranching.js.org](learngitbranching.js.org) and finished all n
 8. Аргументи pull 
 ![alt text](https://github.com/GavryshSergii/kottans-frontend/blob/main/task_git_collaboration/remoteAdvanced8.png "Аргументи pull ")
 
+## Intro to HTML and CSS
+<details>
+   <summary>HTML, CSS, and Javascript for Web Developers first week</summary>
+
+![alt text](https://github.com/GavryshSergii/kottans-frontend/blob/main/task_html_css_intro/coursera_html_css_first_week.png "linux quiz 1")
+</details>
+<details>
+   <summary>HTML, CSS, and Javascript for Web Developers second week</summary>
+
+![alt text](https://github.com/GavryshSergii/kottans-frontend/blob/main/task_html_css_intro/coursera_html_css_second_week.png "linux quiz 1")
+</details>
+<details>
+   <summary>Codecademy Learn HTML</summary>
+
+![alt text](https://github.com/GavryshSergii/kottans-frontend/blob/main/task_html_css_intro/codecademy_learn-html.png "linux quiz 1")
+</details>
+<details>
+   <summary>Codecademy Learn CSS</summary>
+
+![alt text](https://github.com/GavryshSergii/kottans-frontend/blob/main/task_html_css_intro/codecademy_learn-css.png "linux quiz 1")
+</details>
