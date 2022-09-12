@@ -46,28 +46,44 @@ I passed [learngitbranching.js.org](learngitbranching.js.org) and finished all n
 
 # Через origin – до зірок. Прогресивне використання Git Remotes
 
-1. Push Майстер
+<details>
+   <summary>1. Push Майстер</summary>
+
 ![alt text](https://github.com/GavryshSergii/kottans-frontend/blob/main/task_git_collaboration/remoteAdvanced1.png "Push Майстер")
+</details>
+<details>
+   <summary>2. Мердж з віддаленим репозиторієм</summary>
 
-2. Мердж з віддаленим репозиторієм
 ![alt text](https://github.com/GavryshSergii/kottans-frontend/blob/main/task_git_collaboration/remoteAdvanced2.png "Мердж з віддаленим репозиторієм")
+</details>
+<details>
+   <summary>3. Слідкуємо за віддаленим репозиторієм</summary>
 
-3. Слідкуємо за віддаленим репозиторієм
 ![alt text](https://github.com/GavryshSergii/kottans-frontend/blob/main/task_git_collaboration/remoteAdvanced3.png "Слідкуємо за віддаленим репозиторієм")
+</details>
+<details>
+   <summary>4. Аргументи git push</summary>
 
-4. Аргументи git push
 ![alt text](https://github.com/GavryshSergii/kottans-frontend/blob/main/task_git_collaboration/remoteAdvanced4.png "Аргументи git push")
+</details>
+<details>
+   <summary>5. Розширені аргументи git push</summary>
 
-5. Розширені аргументи git push
 ![alt text](https://github.com/GavryshSergii/kottans-frontend/blob/main/task_git_collaboration/remoteAdvanced5.png "Розширені аргументи git push")
+</details>
+<details>
+   <summary>6. Аргументи для fetch</summary>
 
-6. Аргументи для fetch
 ![alt text](https://github.com/GavryshSergii/kottans-frontend/blob/main/task_git_collaboration/remoteAdvanced6.png "Аргументи для fetch")
+</details>
+<details>
+   <summary>7. Нема джерела</summary>
 
-7. Нема джерела 
 ![alt text](https://github.com/GavryshSergii/kottans-frontend/blob/main/task_git_collaboration/remoteAdvanced7.png "Нема джерела")
+</details>
+<details>
+   <summary>8. Аргументи pull</summary>
 
-8. Аргументи pull 
 ![alt text](https://github.com/GavryshSergii/kottans-frontend/blob/main/task_git_collaboration/remoteAdvanced8.png "Аргументи pull ")
 
 ## Intro to HTML and CSS
@@ -91,3 +107,4 @@ I passed [learngitbranching.js.org](learngitbranching.js.org) and finished all n
 
 ![alt text](https://github.com/GavryshSergii/kottans-frontend/blob/main/task_html_css_intro/codecademy_learn-css.png "linux quiz 1")
 </details>
+Responsive Web Design — #done
