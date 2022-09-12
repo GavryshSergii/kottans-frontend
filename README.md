@@ -85,6 +85,7 @@ I passed [learngitbranching.js.org](learngitbranching.js.org) and finished all n
    <summary>8. Аргументи pull</summary>
 
 ![alt text](https://github.com/GavryshSergii/kottans-frontend/blob/main/task_git_collaboration/remoteAdvanced8.png "Аргументи pull ")
+</details>
 
 ## Intro to HTML and CSS
 <details>
@@ -107,4 +108,3 @@ I passed [learngitbranching.js.org](learngitbranching.js.org) and finished all n
 
 ![alt text](https://github.com/GavryshSergii/kottans-frontend/blob/main/task_html_css_intro/codecademy_learn-css.png "linux quiz 1")
 </details>
-Responsive Web Design — #done
