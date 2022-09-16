@@ -433,3 +433,18 @@ I passed [learngitbranching.js.org](learngitbranching.js.org) and finished all n
 
    </details>
 </details>
+
+## JS Basics
+
+<details>
+   <summary> Coursera HTML, CSS, and Javascript for Web Developers JavaScript Basic</summary>
+
+![alt text](https://github.com/GavryshSergii/kottans-frontend/blob/main/task_js_basics/codecademy_learn-js.png)
+
+</details>
+<details>
+      <summary>FreeCodeCamp JavaScript Algorithms and Data Structures</summary>
+
+![alt text](https://github.com/GavryshSergii/kottans-frontend/blob/main/task_js_basics/codecademy_learn-js.png)
+
+</details>
